@@ -1,2 +1,2 @@
 # Git Week 9 Practice
-Project status: Feature in progress
+Project status: Features updated on main.
